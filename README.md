@@ -1,8 +1,39 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: #f5f5f5;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    h1 {
+      color: #333;
+      font-size: 3rem;
+      text-align: center;
+      margin-top: 10rem;
+    }
+    p {
+      color: #666;
+      font-size: 1.5rem;
+      text-align: center;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
+  <p>Welcome to my page! </br> I'm Norhijrah, Data Analyst from <img src="https://cdn-icons-png.flaticon.com/128/14009/14009903.png" width="13"/> <b>Selangor, Malaysia</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/14009/14009903.png" width="13"/> <b>Kuala Lumpur, Malaysia</b>. </p>
+</body>
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
 <p>Welcome to my page! </br> I'm Norhijrah, Data Analyst from <img src="https://cdn-icons-png.flaticon.com/128/14009/14009903.png" width="13"/> <b>Selangor, Malaysia</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/14009/14009903.png" width="13"/> <b>Kuala Lumpur, Malaysia</b>. </p>
 
 <h3>Data Analyst</h3>
-</b> Microsoft Excel, power BI, Tableau, Python>
+</b> Microsoft Excel, power BI, Tableau, Python
 
 <h3>Things I code with</h3>
 <p>
@@ -81,4 +112,6 @@
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
+
+<img src="https://cdn.wallpapersafari.com/31/54/Hz7w8E.jpg" width="1500" height"840"/>
 ------------
