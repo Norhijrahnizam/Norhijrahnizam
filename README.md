@@ -1,34 +1,3 @@
-
-
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      background-color: #f5f5f5;
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-    }
-    h1 {
-      color: #333;
-      font-size: 3rem;
-      text-align: center;
-      margin-top: 10rem;
-    }
-    p {
-      color: #666;
-      font-size: 1.5rem;
-      text-align: center;
-      margin-top: 2rem;
-    }
-  </style>
-</head>
-<body>
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
-  <p>Welcome to my page! </br> I'm Norhijrah, Data Analyst from <img src="https://cdn-icons-png.flaticon.com/128/14009/14009903.png" width="13"/> <b>Selangor, Malaysia</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/14009/14009903.png" width="13"/> <b>Kuala Lumpur, Malaysia</b>. </p>
-</body>
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
 <p>Welcome to my page! </br> I'm Norhijrah, Data Analyst from <img src="https://cdn-icons-png.flaticon.com/128/14009/14009903.png" width="13"/> <b>Selangor, Malaysia</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/128/14009/14009903.png" width="13"/> <b>Kuala Lumpur, Malaysia</b>. </p>
 
